@@ -4,6 +4,7 @@
   - [log-alimentar](https://github.com/leo-tavares/log-alimentar-mobile) -> App para controle alimentar, feito com arquitetura offline-first
   - [discovering-typescript](https://github.com/leo-tavares/discovering-typescript) -> Ajudo a desmistificar o typescript
   - [watermelonDB](https://github.com/Nozbe/WatermelonDB) -> Ajudando na documentação e resolvendo issues sempre que possível
+  - [30-days-of-react-native-animations](https://github.com/leo-tavares/30-days-of-react-native-animations) -> Melhorar habilidades com animações usando react-native
 
 ### Fluente nas seguintes tecnologias
   - Front -> React, react-native
