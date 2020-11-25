@@ -1,4 +1,6 @@
-## Olá, bem vindo :smile:
+## Olá, bem vindo ao meu laboratório!
+### Aqui é onde eu experimento novas tecnologias, aprendo e compartilhando um pouco do que eu sei :smile:
+
 
 ### Projetos open source 
   - [log-alimentar](https://github.com/leo-tavares/log-alimentar-mobile) -> App para controle alimentar, feito com arquitetura offline-first
@@ -23,22 +25,3 @@ Aqui no github ou pode me encontrar no linekdin
 lofi! lofi...Uma das melhores coisas que humanidade já fez! experimente! O meu preferido é do [ChilledCow](https://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=ChilledCow) 
 
 café tambem, o que eu mais amo é o "l'or extra forte"
-
-###### ...agora deixar eu resolver uns bugs hahahaha
-<p align="center">
-<img alt="a nice programmer" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-</p>
-<!--
-**leo-tavares/leo-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
