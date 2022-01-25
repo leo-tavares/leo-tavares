@@ -8,11 +8,10 @@
   - [watermelonDB](https://github.com/Nozbe/WatermelonDB) -> Ajudando na documentação e resolvendo issues sempre que possível
   - [30-days-of-react-native-animations](https://github.com/leo-tavares/30-days-of-react-native-animations) -> Melhorar habilidades com animações usando react-native
 
-### Fluente nas seguintes tecnologias
-  - Front -> React, react-native
-  - Back -> NodeJs,Express
-  - serverless -> Firebase nos seguintes serviços firestore, authentication, cloud-function e cloud-storage
-
+### techs
+  - C#, .Net, EF Core
+  - Azure pipelines, service bus
+  - Javascript NodeJs, React/React Native
 
 #### Onde me encontrar?
 Aqui no github ou pode me encontrar no linekdin 
