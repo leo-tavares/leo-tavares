@@ -13,7 +13,7 @@
 #### Onde me encontrar?
 Aqui no github ou pode me encontrar no linekdin 
 
-<a href="https://www.linkedin.com/in/leo-tavares-2020/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg"/></a>
+<a href="https://www.linkedin.com/in/leo-tavares-2021/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg"/></a>
 
 
 #### ahhh... se tem uma coisa que não pode faltar enquanto estou codando...
